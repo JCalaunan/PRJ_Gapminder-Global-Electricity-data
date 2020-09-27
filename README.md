@@ -6,3 +6,5 @@ Udacity Project 2 - Investigate a database of interest
  Incorporate: 
  - [ ] Global carbon emissions dataset and add to comparison
  - [ ] Global electricity generated via renewables, coal, etc.
+ 
+![GitHub issues](https://img.shields.io/github/issues-raw/JCalaunan/Gapminder-Global-Electricity-data)
